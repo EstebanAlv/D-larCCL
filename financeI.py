@@ -1,5 +1,5 @@
 """El siguiente script proporcione el dólar CCL ("Contado con liquidación"), uno de los dólares financieros de Argentina. Está
-calcualdo en base el precio de la acción cotizante en USA (ADR GGAL, NASDAQ), el precio en la bolsa local (GGAL.BA) y un 
+calculado en base al precio de la acción cotizante en USA (ADR GGAL, NASDAQ), el precio en la bolsa local (GGAL.BA) y un 
 factor de conversión (10 para este caso del banco GGAL), según base cierre del último día hábil"""
 
 import yfinance as yf
